@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vuong Huynh
-- 👀 I’m interested in Software Development
-- 🌱 I’m working on Master of Computer Science
+- 👀 I’m interested in Web Development
+- 🌱 I’m working on a Master of Computer Science Degree.
 - 💞️ I’m looking to collaborate on any Web Development projects.
 - 📫 Reach me on https://vuonghuynh.com
 
